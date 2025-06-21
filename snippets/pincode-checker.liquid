@@ -1,0 +1,133 @@
+{{ 'pincode-checker.css' | asset_url | stylesheet_tag: media: 'screen' }}
+
+<style>
+  .custom-product-info .pincode_div{
+    background: {{pincodeBgColor}};
+  }
+  .custom-product-info .pincode_input{
+    color: {{pincodeInputColor}};
+  }
+  .custom-product-info .pdp_pincode_container .pincode_submit{
+    color: {{pincodeButtonColor}};
+  }
+  .error-message-container {
+    display: none;
+    color: red;
+  }
+  .error-message-digits-container {
+    display: none;
+    color: red;
+  }
+  .pinMsg.success {
+    color: green;
+  }
+  .pinMsg.error {
+    color: red;
+  }
+</style>
+
+<div class="pdp_pincode_container" {{ block.shopify_attributes }}>
+  <span class="pdp_pincode_heading">{{ block.settings.pincode_heading }}</span>
+  <p class="pincode_sheet_api_holder hidden">{{ block.settings.pincode_api }}</p>
+  <div class="pincode_div">
+    <input
+      class="pincode_input"
+      type="number"
+      oninput="limitPincodeLength();"
+      inputmode="numeric"
+      placeholder="{{ block.settings.pincode_placeholder }}"
+      minlength="6"
+      maxlength="6"
+      onkeypress="handleKeyPress(event);"
+    >
+    <button class="pincode_submit" onclick="checkPinCode();">
+      {{ block.settings.pincode_btn_text }}
+    </button>
+  </div>
+  <p class="pincode_loading" style="display: none;">Checking</p>
+  <p
+    class="pinMsg"
+    data-success-message="{{ block.settings.pincode_success_msg }}"
+    data-failed-message="{{ block.settings.pincode_failed_msg }}"
+  ></p>
+</div>
+<div class="error-message-container">
+  <p class="input-message">Please Enter Pincode To Check</p>
+</div>
+<div class="error-message-digits-container">
+  <p class="input-message-digits-error">Please Enter Valid Pincode</p>
+</div>
+
+<script>
+  function limitPincodeLength() {
+    let pincodeInput = document.querySelector('.pincode_input');
+    if (pincodeInput.value.length > pincodeInput.maxLength) {
+      pincodeInput.value = pincodeInput.value.slice(0, pincodeInput.maxLength);
+    }
+  }
+
+  function handleKeyPress(event) {
+    if (event.keyCode === 13) {
+      checkPinCode();
+    }
+  }
+
+  async function checkPinCode() {
+    let pincodeApiUrl = document.querySelector('.pincode_sheet_api_holder').textContent.trim();
+    let pincodeInputValue = document.querySelector('.pincode_input').value.trim();
+    let pincodeLoading = document.querySelector('.pincode_loading');
+    let pincodeResult = document.querySelector('.pinMsg');
+    let errorMessage = document.querySelector('.error-message-container');
+    let digitsErrorMessage = document.querySelector('.error-message-digits-container');
+
+    // Clear previous messages
+    errorMessage.style.display = 'none';
+    digitsErrorMessage.style.display = 'none';
+    pincodeResult.textContent = '';
+    pincodeResult.classList.remove('error', 'success');
+
+    if (pincodeInputValue.length === 0) {
+      errorMessage.style.display = 'block';
+      return;
+    }
+
+    if (pincodeInputValue.length !== 6) {
+      digitsErrorMessage.style.display = 'block';
+      return;
+    }
+
+    pincodeLoading.style.display = 'inline-block'; // Show loading indicator
+    pincodeLoading.style.marginTop = '12px';
+    
+    try {
+      let response = await fetch(pincodeApiUrl);
+      if (!response.ok) {
+        throw new Error('Failed to fetch data');
+      }
+      let data = await response.json();
+      let locations = data.values;
+      displayPincodeResult(pincodeInputValue, locations);
+    } catch (error) {
+      console.error('Error:', error);
+    } finally {
+      pincodeLoading.style.display = 'none'; // Hide loading indicator after request completes
+    }
+  }
+
+  function displayPincodeResult(pincode, locations) {
+    let pincodeResult = document.querySelector('.pinMsg');
+    let successMessage = pincodeResult.getAttribute('data-success-message');
+    let failedMessage = pincodeResult.getAttribute('data-failed-message');
+    let isPincodeValid = locations.some((location) => location[0] === pincode);
+
+    if (isPincodeValid) {
+      pincodeResult.textContent = successMessage;
+      pincodeResult.classList.add('success');
+      pincodeResult.classList.remove('error');
+    } else {
+      pincodeResult.textContent = failedMessage;
+      pincodeResult.classList.add('error');
+      pincodeResult.classList.remove('success');
+    }
+  }
+</script>

@@ -1,0 +1,1228 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "sub_category_t2_gUYyG8": {
+      "type": "sub-category-t2",
+      "blocks": {
+        "slideshow_7fyMMA": {
+          "type": "slideshow",
+          "settings": {
+            "collection_slide_text": "New Drops",
+            "collection_slide_subtext": "",
+            "collection_slide_image": "shopify:\/\/shop_images\/10_e9cd1f56-6c74-452a-ae30-e8c85e18b748.jpg",
+            "collection_slide_url": "",
+            "border_width": 0,
+            "border_color": "#000000",
+            "border_top_left_radius": 50,
+            "border_top_right_radius": 50,
+            "border_bottom_left_radius": 50,
+            "border_bottom_right_radius": 50
+          }
+        },
+        "slideshow_NA9BaK": {
+          "type": "slideshow",
+          "settings": {
+            "collection_slide_text": "Bestsellers",
+            "collection_slide_subtext": "",
+            "collection_slide_image": "shopify:\/\/shop_images\/6_37d8e185-9d29-45cb-aba8-5524da102151.jpg",
+            "collection_slide_url": "",
+            "border_width": 0,
+            "border_color": "#000000",
+            "border_top_left_radius": 50,
+            "border_top_right_radius": 50,
+            "border_bottom_left_radius": 50,
+            "border_bottom_right_radius": 50
+          }
+        },
+        "slideshow_VHgBhj": {
+          "type": "slideshow",
+          "settings": {
+            "collection_slide_text": "Collection New Drops",
+            "collection_slide_subtext": "",
+            "collection_slide_image": "shopify:\/\/shop_images\/12_40431d63-08cf-4bed-b36e-0c071517dcc2.jpg",
+            "collection_slide_url": "",
+            "border_width": 0,
+            "border_color": "#000000",
+            "border_top_left_radius": 50,
+            "border_top_right_radius": 50,
+            "border_bottom_left_radius": 50,
+            "border_bottom_right_radius": 50
+          }
+        },
+        "slideshow_PBRkUF": {
+          "type": "slideshow",
+          "settings": {
+            "collection_slide_text": "New Drops",
+            "collection_slide_subtext": "",
+            "collection_slide_image": "shopify:\/\/shop_images\/5_b0a51788-bb5a-4828-8f43-dd09db2296a5.jpg",
+            "collection_slide_url": "",
+            "border_width": 0,
+            "border_color": "#000000",
+            "border_top_left_radius": 50,
+            "border_top_right_radius": 50,
+            "border_bottom_left_radius": 50,
+            "border_bottom_right_radius": 50
+          }
+        },
+        "slideshow_Yxe4L8": {
+          "type": "slideshow",
+          "settings": {
+            "collection_slide_text": "Collection New Drops",
+            "collection_slide_subtext": "",
+            "collection_slide_image": "shopify:\/\/shop_images\/12_40431d63-08cf-4bed-b36e-0c071517dcc2.jpg",
+            "collection_slide_url": "",
+            "border_width": 0,
+            "border_color": "#000000",
+            "border_top_left_radius": 50,
+            "border_top_right_radius": 50,
+            "border_bottom_left_radius": 50,
+            "border_bottom_right_radius": 50
+          }
+        },
+        "slideshow_g7wBja": {
+          "type": "slideshow",
+          "settings": {
+            "collection_slide_text": "New Drops",
+            "collection_slide_subtext": "",
+            "collection_slide_image": "shopify:\/\/shop_images\/medium-shot-woman-making-clothes.jpg",
+            "collection_slide_url": "",
+            "border_width": 0,
+            "border_color": "#000000",
+            "border_top_left_radius": 50,
+            "border_top_right_radius": 50,
+            "border_bottom_left_radius": 50,
+            "border_bottom_right_radius": 50
+          }
+        },
+        "slideshow_ax4jUM": {
+          "type": "slideshow",
+          "settings": {
+            "collection_slide_text": "Bestsellers",
+            "collection_slide_subtext": "",
+            "collection_slide_image": "shopify:\/\/shop_images\/6_37d8e185-9d29-45cb-aba8-5524da102151.jpg",
+            "collection_slide_url": "",
+            "border_width": 0,
+            "border_color": "#000000",
+            "border_top_left_radius": 50,
+            "border_top_right_radius": 50,
+            "border_bottom_left_radius": 50,
+            "border_bottom_right_radius": 50
+          }
+        }
+      },
+      "block_order": [
+        "slideshow_7fyMMA",
+        "slideshow_NA9BaK",
+        "slideshow_VHgBhj",
+        "slideshow_PBRkUF",
+        "slideshow_Yxe4L8",
+        "slideshow_g7wBja",
+        "slideshow_ax4jUM"
+      ],
+      "settings": {
+        "margin_bottom_desktop": 36,
+        "margin_bottom_mobile": 4,
+        "section_padding_top": 20,
+        "section_padding_bottom": 20,
+        "swiper_container_width": 100,
+        "section_heading": "",
+        "section_text_alignment": "center",
+        "block_text_size_desktop": 14,
+        "block_text_size_mobile": 9,
+        "section_heading_size_desktop": 36,
+        "section_heading_size_mobile": 20,
+        "block_subtext_size_desktop": 12,
+        "block_subtext_size_mobile": 11,
+        "section_block_size_desktop": 100,
+        "section_block_size_mobile": 100,
+        "slides_per_view_desktop": 7,
+        "space_between_slides_desktop": 10,
+        "slides_per_view_mobile": 4,
+        "space_between_slides_mobile": 10,
+        "section_background": "linear-gradient(180deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 1) 100%)"
+      }
+    },
+    "custom_main_banner_BkQwQq": {
+      "type": "custom-main-banner",
+      "blocks": {
+        "image_block_DiW9c9": {
+          "type": "image_block",
+          "settings": {
+            "desktop_banner_image": "shopify:\/\/shop_images\/Desktop_12_28e818f2-6849-4a60-b74c-7288029d8f43.webp",
+            "mobile_banner_image": "shopify:\/\/shop_images\/Mobile_10_810220f2-b8d1-46e9-b66c-85c898fd4349.webp",
+            "image_link": ""
+          }
+        },
+        "image_block_QrFByF": {
+          "type": "image_block",
+          "settings": {
+            "desktop_banner_image": "shopify:\/\/shop_images\/Brand_focus_desktop_1.webp",
+            "mobile_banner_image": "shopify:\/\/shop_images\/Brand_Focus_mobile.webp",
+            "image_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_block_DiW9c9",
+        "image_block_QrFByF"
+      ],
+      "settings": {
+        "margin_bottom_desktop": 36,
+        "margin_bottom_mobile": 36,
+        "autoplay": true,
+        "loop": false,
+        "stopon_last_slide": false,
+        "change_slides_speed": 4,
+        "navigation": true,
+        "pagination": true
+      }
+    },
+    "da31b08c-4e45-4935-b424-73c403919e9e": {
+      "type": "featured-collection-t1",
+      "settings": {
+        "margin_bottom_desktop": 36,
+        "margin_bottom_mobile": 36,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section_title": "Bestseller One",
+        "section_sub_title": "Bestseller Description One",
+        "section_background": "",
+        "slides_per_view_desktop": 5,
+        "slides_per_view_mobile": 1.5,
+        "collection": "female"
+      }
+    },
+    "af327331-51d5-475e-825e-e9a46518852f": {
+      "type": "featured-collection-t2",
+      "blocks": {
+        "50b2e081-5e50-4d6f-b363-2655e2d9486b": {
+          "type": "slide",
+          "settings": {
+            "filter_text": "Men",
+            "bsCollection": "men"
+          }
+        },
+        "d5765d2d-6c68-4677-8c5a-f74410a5cba4": {
+          "type": "slide",
+          "settings": {
+            "filter_text": "Women",
+            "bsCollection": "female"
+          }
+        },
+        "af40fe3e-5d9f-4b3d-9111-896241666c06": {
+          "type": "slide",
+          "settings": {
+            "filter_text": "Kids",
+            "bsCollection": "mens"
+          }
+        }
+      },
+      "block_order": [
+        "50b2e081-5e50-4d6f-b363-2655e2d9486b",
+        "d5765d2d-6c68-4677-8c5a-f74410a5cba4",
+        "af40fe3e-5d9f-4b3d-9111-896241666c06"
+      ],
+      "settings": {
+        "margin_bottom_desktop": 36,
+        "margin_bottom_mobile": 36,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "slides_per_view_desktop": 4.2,
+        "slides_per_view_mobile": 2.3,
+        "loopSlider": true,
+        "sectionTitle": "Bestseller Two",
+        "sectionsubTitle": "Bestseller Description Two",
+        "section_background": "linear-gradient(180deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 1) 100%)",
+        "tab_background": "#ee3224"
+      }
+    },
+    "c261297d-0f94-4369-9a1c-768b2213089b": {
+      "type": "featured-collection-t3",
+      "blocks": {
+        "template--21406065819925__c261297d-0f94-4369-9a1c-768b2213089b-slide-1": {
+          "type": "slide",
+          "settings": {
+            "tab_title": "Men",
+            "setTabActive": false,
+            "featured_products_collection": "men",
+            "card_background": "#ffffff",
+            "pagination_color": false,
+            "background_image_desktop": "shopify:\/\/shop_images\/Featured_Men_e04c3638-06b5-4527-bcdb-4914f3010e08_1.webp",
+            "background_image_mobile": "shopify:\/\/shop_images\/Featured_men_d92a4d4f-5948-469a-b1c2-28bb5bd9d4a7.webp"
+          }
+        },
+        "template--21406065819925__c261297d-0f94-4369-9a1c-768b2213089b-slide-2": {
+          "type": "slide",
+          "settings": {
+            "tab_title": "Women",
+            "setTabActive": true,
+            "featured_products_collection": "female",
+            "card_background": "#ffffff",
+            "pagination_color": false,
+            "background_image_desktop": "shopify:\/\/shop_images\/Featured_women_56a7fd22-641c-4d9b-b25a-c753e912a581.webp",
+            "background_image_mobile": "shopify:\/\/shop_images\/Featured_women_252a73ef-9b64-4e2f-8d8a-65c9175271de.webp"
+          }
+        }
+      },
+      "block_order": [
+        "template--21406065819925__c261297d-0f94-4369-9a1c-768b2213089b-slide-1",
+        "template--21406065819925__c261297d-0f94-4369-9a1c-768b2213089b-slide-2"
+      ],
+      "settings": {
+        "margin_bottom_desktop": 36,
+        "margin_bottom_mobile": 36,
+        "section_margin_top": 0,
+        "section_padding_top": 20,
+        "section_padding_bottom": 20,
+        "section_margin_top_mobile": 0,
+        "tab_bg_color": "#ffffff"
+      }
+    },
+    "b209c2e1-8294-459c-9f0d-06a47216c1b9": {
+      "type": "circular-slider",
+      "blocks": {
+        "54f3a6ea-b7ac-4a5a-ad77-5970b53e4248": {
+          "type": "slide",
+          "settings": {
+            "desktop_card_image": "shopify:\/\/shop_images\/Blemishes_Clogged_Pores_5b454b57-82bc-4f40-beaf-dec453d7c5d2.jpg",
+            "mobile_card_image": "shopify:\/\/shop_images\/Blemishes_Clogged_Pores_53d4f1c2-c2f1-4c1b-8dec-972f140f959e.jpg",
+            "shop_by_concern_title": "Shop By Concern Title",
+            "shop_by_concern_link": ""
+          }
+        },
+        "9110f41d-b252-4285-bc8a-bba18d0d926a": {
+          "type": "slide",
+          "settings": {
+            "desktop_card_image": "shopify:\/\/shop_images\/Blemishes_Clogged_Pores_5b454b57-82bc-4f40-beaf-dec453d7c5d2.jpg",
+            "mobile_card_image": "shopify:\/\/shop_images\/Blemishes_Clogged_Pores_53d4f1c2-c2f1-4c1b-8dec-972f140f959e.jpg",
+            "shop_by_concern_title": "Shop By Concern Title",
+            "shop_by_concern_link": ""
+          }
+        },
+        "0fddf23f-aee8-488c-a374-01cbf1cd95bc": {
+          "type": "slide",
+          "settings": {
+            "desktop_card_image": "shopify:\/\/shop_images\/Blemishes_Clogged_Pores_5b454b57-82bc-4f40-beaf-dec453d7c5d2.jpg",
+            "mobile_card_image": "shopify:\/\/shop_images\/Blemishes_Clogged_Pores_53d4f1c2-c2f1-4c1b-8dec-972f140f959e.jpg",
+            "shop_by_concern_title": "Shop By Concern Title",
+            "shop_by_concern_link": ""
+          }
+        },
+        "286c3692-2325-4ddb-8f24-ea7933f840dd": {
+          "type": "slide",
+          "settings": {
+            "desktop_card_image": "shopify:\/\/shop_images\/Blemishes_Clogged_Pores_5b454b57-82bc-4f40-beaf-dec453d7c5d2.jpg",
+            "mobile_card_image": "shopify:\/\/shop_images\/Blemishes_Clogged_Pores_53d4f1c2-c2f1-4c1b-8dec-972f140f959e.jpg",
+            "shop_by_concern_title": "Shop By Concern Title",
+            "shop_by_concern_link": ""
+          }
+        },
+        "e6948695-3871-4b30-b67e-0d8006614bd2": {
+          "type": "slide",
+          "settings": {
+            "desktop_card_image": "shopify:\/\/shop_images\/Blemishes_Clogged_Pores_5b454b57-82bc-4f40-beaf-dec453d7c5d2.jpg",
+            "mobile_card_image": "shopify:\/\/shop_images\/Blemishes_Clogged_Pores_53d4f1c2-c2f1-4c1b-8dec-972f140f959e.jpg",
+            "shop_by_concern_title": "Shop By Concern Title",
+            "shop_by_concern_link": ""
+          }
+        },
+        "ccb213b5-a316-4dc3-b6c5-e2d14cf7e636": {
+          "type": "slide",
+          "settings": {
+            "desktop_card_image": "shopify:\/\/shop_images\/Blemishes_Clogged_Pores_5b454b57-82bc-4f40-beaf-dec453d7c5d2.jpg",
+            "mobile_card_image": "shopify:\/\/shop_images\/Blemishes_Clogged_Pores_53d4f1c2-c2f1-4c1b-8dec-972f140f959e.jpg",
+            "shop_by_concern_title": "Shop By Concern Title",
+            "shop_by_concern_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "54f3a6ea-b7ac-4a5a-ad77-5970b53e4248",
+        "9110f41d-b252-4285-bc8a-bba18d0d926a",
+        "0fddf23f-aee8-488c-a374-01cbf1cd95bc",
+        "286c3692-2325-4ddb-8f24-ea7933f840dd",
+        "e6948695-3871-4b30-b67e-0d8006614bd2",
+        "ccb213b5-a316-4dc3-b6c5-e2d14cf7e636"
+      ],
+      "settings": {
+        "margin_bottom_desktop": 36,
+        "margin_bottom_mobile": 36,
+        "main_title": "Shop by Concerns",
+        "main_sub_title": "Shop by Concerns Des",
+        "section_text_alignment": "center",
+        "section_background": ""
+      }
+    },
+    "a6ef5710-a41e-485b-9691-2ea1211a3d3d": {
+      "type": "usp-logo",
+      "blocks": {
+        "530e5c69-17f4-48f7-80fa-3b7e2712d211": {
+          "type": "Select",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Group_14054.png",
+            "text": "Text",
+            "text_color": "#000000"
+          }
+        },
+        "72beb8f3-4c48-46b0-bce2-857a24c45ce3": {
+          "type": "Select",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Group_14054.png",
+            "text": "Text",
+            "text_color": "#000000"
+          }
+        },
+        "select_DMGdaV": {
+          "type": "Select",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Group_14054.png",
+            "text": "Text",
+            "text_color": "#000000"
+          }
+        },
+        "select_7eBALN": {
+          "type": "Select",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Group_14054.png",
+            "text": "Text",
+            "text_color": "#000000"
+          }
+        },
+        "select_XdXLUa": {
+          "type": "Select",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Group_14054.png",
+            "text": "Text",
+            "text_color": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "530e5c69-17f4-48f7-80fa-3b7e2712d211",
+        "72beb8f3-4c48-46b0-bce2-857a24c45ce3",
+        "select_DMGdaV",
+        "select_7eBALN",
+        "select_XdXLUa"
+      ],
+      "settings": {
+        "background_color": "rgba(251, 225, 206, 0.2)",
+        "margin_bottom_desktop": 36,
+        "margin_bottom_mobile": 36,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "main_title": "USP One",
+        "main_sub_title": "USP One Des",
+        "section_text_alignment": "center",
+        "show_content": "grid",
+        "slides_per_view": 4
+      }
+    },
+    "afa91349-f313-42e2-aa91-546c19f22ad1": {
+      "type": "insta-image-slider",
+      "blocks": {
+        "61050eef-fa33-4664-b551-ae063d62fb1d": {
+          "type": "Image",
+          "settings": {
+            "left_image_section": "shopify:\/\/shop_images\/Dr._Vijay.jpg",
+            "name_of_pic": "Your Name"
+          }
+        },
+        "649ef329-4b95-4c11-a774-a58c52ffbd1d": {
+          "type": "Image",
+          "settings": {
+            "left_image_section": "shopify:\/\/shop_images\/Screenshot_2023-01-13_at_1.26_1.png",
+            "name_of_pic": "Your Name"
+          }
+        },
+        "bcf66865-4f48-4654-bf05-a35292162027": {
+          "type": "Image",
+          "settings": {
+            "left_image_section": "shopify:\/\/shop_images\/Screenshot_2023-01-13_at_1.26_1.png",
+            "name_of_pic": "Your Name"
+          }
+        },
+        "db678bb2-2c1b-44da-9a60-273fe3b482be": {
+          "type": "Image",
+          "settings": {
+            "left_image_section": "shopify:\/\/shop_images\/Screenshot_2023-01-13_at_1.26_1.png",
+            "name_of_pic": "Your Name"
+          }
+        },
+        "c254a937-0b83-4dfd-b410-d8b80997da00": {
+          "type": "Image",
+          "settings": {
+            "left_image_section": "shopify:\/\/shop_images\/Screenshot_2023-01-13_at_1.26_1.png",
+            "name_of_pic": "Your Name"
+          }
+        },
+        "aaf014bc-4d11-4c99-96fc-330b4b795458": {
+          "type": "Image",
+          "settings": {
+            "left_image_section": "shopify:\/\/shop_images\/Dr._Vijay.jpg",
+            "name_of_pic": "Your Name"
+          }
+        }
+      },
+      "block_order": [
+        "61050eef-fa33-4664-b551-ae063d62fb1d",
+        "649ef329-4b95-4c11-a774-a58c52ffbd1d",
+        "bcf66865-4f48-4654-bf05-a35292162027",
+        "db678bb2-2c1b-44da-9a60-273fe3b482be",
+        "c254a937-0b83-4dfd-b410-d8b80997da00",
+        "aaf014bc-4d11-4c99-96fc-330b4b795458"
+      ],
+      "settings": {
+        "margin_bottom_desktop": 36,
+        "margin_bottom_mobile": 36,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "flexthefit_heading": "Insta Slider",
+        "flexthefit_para": "Insta Slider Description",
+        "section_text_alignment": "left",
+        "section_background": "linear-gradient(180deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 1) 100%)"
+      }
+    },
+    "ac00d44a-1548-4681-9ea7-31dcf07a6929": {
+      "type": "testimonial-t1",
+      "blocks": {
+        "912c6507-cc22-4ac4-922d-41cd5decc4ed": {
+          "type": "image",
+          "settings": {
+            "testimonial_image": "shopify:\/\/shop_images\/Ellipse_31.svg",
+            "testimonial_rating": 5,
+            "right_text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "right_name": "SARA WILSON",
+            "right_designation": "Director at UNIHUB"
+          }
+        },
+        "image_P4B9eK": {
+          "type": "image",
+          "settings": {
+            "testimonial_image": "shopify:\/\/shop_images\/Ellipse_31.svg",
+            "testimonial_rating": 4,
+            "right_text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "right_name": "SARA WILSON",
+            "right_designation": "Director at UNIHUB"
+          }
+        },
+        "image_BqMMj9": {
+          "type": "image",
+          "settings": {
+            "testimonial_image": "shopify:\/\/shop_images\/Ellipse_31.svg",
+            "testimonial_rating": 3.5,
+            "right_text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "right_name": "SARA WILSON",
+            "right_designation": "Director at UNIHUB"
+          }
+        },
+        "image_aXA9QM": {
+          "type": "image",
+          "settings": {
+            "testimonial_image": "shopify:\/\/shop_images\/Ellipse_31.svg",
+            "testimonial_rating": 1.5,
+            "right_text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "right_name": "SARA WILSON",
+            "right_designation": "Director at UNIHUB"
+          }
+        }
+      },
+      "block_order": [
+        "912c6507-cc22-4ac4-922d-41cd5decc4ed",
+        "image_P4B9eK",
+        "image_BqMMj9",
+        "image_aXA9QM"
+      ],
+      "settings": {
+        "margin_bottom_desktop": 36,
+        "margin_bottom_mobile": 36,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "main_client_testimonials_heading": "Testimonial One",
+        "main_client_testimonials_subheading": "Testimonial One Description",
+        "testimonial_alignment": "left",
+        "section_background": "linear-gradient(180deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 1) 100%)"
+      }
+    },
+    "de611900-a2df-48da-9c19-31b7b86f7445": {
+      "type": "testimonial-t2",
+      "blocks": {
+        "cbde28aa-a4d3-479e-809f-4035fc5e90b5": {
+          "type": "image",
+          "settings": {
+            "firstImG": "shopify:\/\/shop_images\/456x500px-Dr-Geetika-Rawat-General-dentist_abebb3a9-38ff-4639-b84d-516e0181320e.jpg",
+            "firsttext": "Dr Geetika Rawat, General Dentist",
+            "secImG": "shopify:\/\/shop_images\/250x250px-Dr-Nikita-Nagar-MD-Infertility-_-Gynecology_089f35b2-db6f-4da5-a788-5d0865c9012e.jpg",
+            "secondtext": "Dr Nikita Nagar, MD Infertility",
+            "thirdImG": "shopify:\/\/shop_images\/250x250px-Dr-Dhruv-Chauhan-MBBS_667c997e-7eee-468f-96b4-752c1d18819b.jpg",
+            "thirdtext": "Dr Hardik Pawar, Orthopaedic",
+            "mobfirst": "shopify:\/\/shop_images\/250x250px-Dr-Hardik-Pawar--Orthopaedic_70d2b07e-2a87-476c-accd-e27ce71425db.jpg",
+            "firstmobtext": "Dr Dhruv Chauhan, MBBS",
+            "mobsec": "shopify:\/\/shop_images\/250x250px-Dr-Aditya-Gupta--Paediatric-Oncology_91e74299-6a45-4465-9c92-cc513366c930.jpg",
+            "sectext": "Dr Aditya Gupta, Paediatric Oncology",
+            "mobthird": "shopify:\/\/shop_images\/456x500px-Dr-Mili-Dogra-Anesthesiology-Resident_ab4edce0-1b04-431e-b09f-678b766e87c7.jpg",
+            "thirdtextmob": "Dr Mili Dogra, Anesthesiology"
+          }
+        },
+        "e01393ce-35b1-46bd-9783-d632650f6935": {
+          "type": "image",
+          "settings": {
+            "firstImG": "shopify:\/\/shop_images\/456x500px-Dr-Geetika-Rawat-General-dentist_abebb3a9-38ff-4639-b84d-516e0181320e.jpg",
+            "firsttext": "Dr Geetika Rawat, General Dentist",
+            "secImG": "shopify:\/\/shop_images\/250x250px-Dr-Nikita-Nagar-MD-Infertility-_-Gynecology_089f35b2-db6f-4da5-a788-5d0865c9012e.jpg",
+            "secondtext": "Dr Nikita Nagar, MD Infertility",
+            "thirdImG": "shopify:\/\/shop_images\/250x250px-Dr-Dhruv-Chauhan-MBBS_667c997e-7eee-468f-96b4-752c1d18819b.jpg",
+            "thirdtext": "Dr Hardik Pawar, Orthopaedic",
+            "mobfirst": "shopify:\/\/shop_images\/250x250px-Dr-Hardik-Pawar--Orthopaedic_70d2b07e-2a87-476c-accd-e27ce71425db.jpg",
+            "firstmobtext": "Dr Dhruv Chauhan, MBBS",
+            "mobsec": "shopify:\/\/shop_images\/250x250px-Dr-Aditya-Gupta--Paediatric-Oncology_91e74299-6a45-4465-9c92-cc513366c930.jpg",
+            "sectext": "Dr Aditya Gupta, Paediatric Oncology",
+            "mobthird": "shopify:\/\/shop_images\/456x500px-Dr-Mili-Dogra-Anesthesiology-Resident_ab4edce0-1b04-431e-b09f-678b766e87c7.jpg",
+            "thirdtextmob": "Dr Mili Dogra, Anesthesiology"
+          }
+        },
+        "0620e5d2-7b43-43e8-80ad-89594916e367": {
+          "type": "image",
+          "settings": {
+            "firstImG": "shopify:\/\/shop_images\/456x500px-Dr-Geetika-Rawat-General-dentist_abebb3a9-38ff-4639-b84d-516e0181320e.jpg",
+            "firsttext": "Dr Geetika Rawat, General Dentist",
+            "secImG": "shopify:\/\/shop_images\/250x250px-Dr-Nikita-Nagar-MD-Infertility-_-Gynecology_089f35b2-db6f-4da5-a788-5d0865c9012e.jpg",
+            "secondtext": "Dr Nikita Nagar, MD Infertility",
+            "thirdImG": "shopify:\/\/shop_images\/250x250px-Dr-Dhruv-Chauhan-MBBS_667c997e-7eee-468f-96b4-752c1d18819b.jpg",
+            "thirdtext": "Dr Hardik Pawar, Orthopaedic",
+            "mobfirst": "shopify:\/\/shop_images\/250x250px-Dr-Hardik-Pawar--Orthopaedic_70d2b07e-2a87-476c-accd-e27ce71425db.jpg",
+            "firstmobtext": "Dr Dhruv Chauhan, MBBS",
+            "mobsec": "shopify:\/\/shop_images\/250x250px-Dr-Aditya-Gupta--Paediatric-Oncology_91e74299-6a45-4465-9c92-cc513366c930.jpg",
+            "sectext": "Dr Aditya Gupta, Paediatric Oncology",
+            "mobthird": "shopify:\/\/shop_images\/456x500px-Dr-Mili-Dogra-Anesthesiology-Resident_ab4edce0-1b04-431e-b09f-678b766e87c7.jpg",
+            "thirdtextmob": "Dr Mili Dogra, Anesthesiology"
+          }
+        },
+        "3ee20f1f-2b17-4845-b335-1dc15c997092": {
+          "type": "image",
+          "settings": {
+            "firstImG": "shopify:\/\/shop_images\/456x500px-Dr-Geetika-Rawat-General-dentist_abebb3a9-38ff-4639-b84d-516e0181320e.jpg",
+            "firsttext": "Dr Geetika Rawat, General Dentist",
+            "secImG": "shopify:\/\/shop_images\/250x250px-Dr-Nikita-Nagar-MD-Infertility-_-Gynecology_089f35b2-db6f-4da5-a788-5d0865c9012e.jpg",
+            "secondtext": "Dr Nikita Nagar, MD Infertility",
+            "thirdImG": "shopify:\/\/shop_images\/250x250px-Dr-Dhruv-Chauhan-MBBS_667c997e-7eee-468f-96b4-752c1d18819b.jpg",
+            "thirdtext": "Dr Hardik Pawar, Orthopaedic",
+            "mobfirst": "shopify:\/\/shop_images\/250x250px-Dr-Hardik-Pawar--Orthopaedic_70d2b07e-2a87-476c-accd-e27ce71425db.jpg",
+            "firstmobtext": "Dr Dhruv Chauhan, MBBS",
+            "mobsec": "shopify:\/\/shop_images\/250x250px-Dr-Aditya-Gupta--Paediatric-Oncology_91e74299-6a45-4465-9c92-cc513366c930.jpg",
+            "sectext": "Dr Aditya Gupta, Paediatric Oncology",
+            "mobthird": "shopify:\/\/shop_images\/456x500px-Dr-Mili-Dogra-Anesthesiology-Resident_ab4edce0-1b04-431e-b09f-678b766e87c7.jpg",
+            "thirdtextmob": "Dr Mili Dogra, Anesthesiology"
+          }
+        }
+      },
+      "block_order": [
+        "cbde28aa-a4d3-479e-809f-4035fc5e90b5",
+        "e01393ce-35b1-46bd-9783-d632650f6935",
+        "0620e5d2-7b43-43e8-80ad-89594916e367",
+        "3ee20f1f-2b17-4845-b335-1dc15c997092"
+      ],
+      "settings": {
+        "margin_bottom_desktop": 36,
+        "margin_bottom_mobile": 36,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "testimonial_main_heading": "Testimonial Two",
+        "testimonial_sub_heading": "Testimonial Two Subtitle",
+        "testimonial_alignment_t2": "left",
+        "section_background": "linear-gradient(180deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 1) 100%)"
+      }
+    },
+    "f6bdca54-da72-46f2-9437-b205141eb58b": {
+      "type": "testimonial-t3",
+      "blocks": {
+        "f466e435-15d0-49e6-a5df-2e53adc10507": {
+          "type": "image",
+          "settings": {
+            "testimonial_slide_layout": false,
+            "comment": "“I have been coming to Dinyar since my teens. My whole family has been a patient of Dinyar. Everytime his hands touch my face, my face feels revived. His hands are magic.”",
+            "name": "Muskaan Patel",
+            "Designation": "SDE",
+            "Smallimg": "shopify:\/\/shop_images\/53.png",
+            "border_top_left_radius": 20,
+            "border_top_right_radius": 20,
+            "border_bottom_left_radius": 20,
+            "border_bottom_right_radius": 20
+          }
+        },
+        "759f5634-fa1f-4cff-bdf7-f778ae4f55c0": {
+          "type": "image",
+          "settings": {
+            "testimonial_slide_layout": false,
+            "comment": "“I have been coming to Dinyar since my teens. My whole family has been a patient of Dinyar. Everytime his hands touch my face, my face feels revived. His hands are magic.”",
+            "name": "Muskaan Patel",
+            "Designation": "SDE",
+            "Smallimg": "shopify:\/\/shop_images\/53.png",
+            "border_top_left_radius": 20,
+            "border_top_right_radius": 20,
+            "border_bottom_left_radius": 20,
+            "border_bottom_right_radius": 20
+          }
+        },
+        "7a59d9f6-0fa0-431e-a437-f9bd15499c43": {
+          "type": "image",
+          "settings": {
+            "testimonial_slide_layout": false,
+            "comment": "“I have been coming to Dinyar since my teens. My whole family has been a patient of Dinyar. Everytime his hands touch my face, my face feels revived. His hands are magic.”",
+            "name": "Muskaan Patel",
+            "Designation": "SDE",
+            "Smallimg": "shopify:\/\/shop_images\/53.png",
+            "border_top_left_radius": 20,
+            "border_top_right_radius": 20,
+            "border_bottom_left_radius": 20,
+            "border_bottom_right_radius": 20
+          }
+        },
+        "ed28eff1-3665-4f5d-801b-2cea155fd00c": {
+          "type": "image",
+          "settings": {
+            "testimonial_slide_layout": false,
+            "comment": "“I have been coming to Dinyar since my teens. My whole family has been a patient of Dinyar. Everytime his hands touch my face, my face feels revived. His hands are magic.”",
+            "name": "Muskaan Patel",
+            "Designation": "SDE",
+            "Smallimg": "shopify:\/\/shop_images\/53.png",
+            "border_top_left_radius": 20,
+            "border_top_right_radius": 20,
+            "border_bottom_left_radius": 20,
+            "border_bottom_right_radius": 20
+          }
+        },
+        "aa4e43da-3d72-4f88-a8b7-347c0ec027a1": {
+          "type": "image",
+          "settings": {
+            "testimonial_slide_layout": false,
+            "comment": "“I have been coming to Dinyar since my teens. My whole family has been a patient of Dinyar. Everytime his hands touch my face, my face feels revived. His hands are magic.”",
+            "name": "Muskaan Patel",
+            "Designation": "SDE",
+            "Smallimg": "shopify:\/\/shop_images\/53.png",
+            "border_top_left_radius": 20,
+            "border_top_right_radius": 20,
+            "border_bottom_left_radius": 20,
+            "border_bottom_right_radius": 20
+          }
+        },
+        "22d030fc-e0b0-490b-9122-04d5bbf2ff84": {
+          "type": "image",
+          "settings": {
+            "testimonial_slide_layout": false,
+            "comment": "“I have been coming to Dinyar since my teens. My whole family has been a patient of Dinyar. Everytime his hands touch my face, my face feels revived. His hands are magic.”",
+            "name": "Muskaan Patel",
+            "Designation": "SDE",
+            "Smallimg": "shopify:\/\/shop_images\/53.png",
+            "border_top_left_radius": 20,
+            "border_top_right_radius": 20,
+            "border_bottom_left_radius": 20,
+            "border_bottom_right_radius": 20
+          }
+        }
+      },
+      "block_order": [
+        "f466e435-15d0-49e6-a5df-2e53adc10507",
+        "759f5634-fa1f-4cff-bdf7-f778ae4f55c0",
+        "7a59d9f6-0fa0-431e-a437-f9bd15499c43",
+        "ed28eff1-3665-4f5d-801b-2cea155fd00c",
+        "aa4e43da-3d72-4f88-a8b7-347c0ec027a1",
+        "22d030fc-e0b0-490b-9122-04d5bbf2ff84"
+      ],
+      "settings": {
+        "margin_bottom_desktop": 36,
+        "margin_bottom_mobile": 36,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "main_title": "Testimonial Three",
+        "main_sub_title": "Testimonial Two Subtitle",
+        "testimonial_alignment_t3": "left",
+        "section_background": "linear-gradient(180deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 1) 100%)",
+        "swiper_background": "rgba(251, 225, 206, 0.2)"
+      }
+    },
+    "bbd238b4-605a-4761-9c7b-1ed49defc2b1": {
+      "type": "testimonial-t4",
+      "blocks": {
+        "ad2640b2-9e82-42e2-8581-f1f152e1d5ab": {
+          "type": "image",
+          "settings": {
+            "brand_image": "shopify:\/\/shop_images\/airbnb.svg"
+          }
+        },
+        "214e2311-3280-4134-b2e7-cc5c700f9d04": {
+          "type": "image",
+          "settings": {
+            "brand_image": "shopify:\/\/shop_images\/cisco.svg"
+          }
+        },
+        "0cee941b-f6b6-4d61-a2b3-00a63896736a": {
+          "type": "image",
+          "settings": {
+            "brand_image": "shopify:\/\/shop_images\/google.svg"
+          }
+        },
+        "8721d8fd-b3f4-4d03-ac90-cdf303794242": {
+          "type": "image",
+          "settings": {
+            "brand_image": "shopify:\/\/shop_images\/cnn.svg"
+          }
+        },
+        "b2c8e17b-03b6-43fb-8140-df57355d8554": {
+          "type": "image",
+          "settings": {
+            "brand_image": "shopify:\/\/shop_images\/uber.svg"
+          }
+        },
+        "005722b7-33d3-4656-95a8-28f023cb9915": {
+          "type": "image",
+          "settings": {
+            "brand_image": "shopify:\/\/shop_images\/ebay.svg"
+          }
+        }
+      },
+      "block_order": [
+        "ad2640b2-9e82-42e2-8581-f1f152e1d5ab",
+        "214e2311-3280-4134-b2e7-cc5c700f9d04",
+        "0cee941b-f6b6-4d61-a2b3-00a63896736a",
+        "8721d8fd-b3f4-4d03-ac90-cdf303794242",
+        "b2c8e17b-03b6-43fb-8140-df57355d8554",
+        "005722b7-33d3-4656-95a8-28f023cb9915"
+      ],
+      "settings": {
+        "margin_bottom_desktop": 36,
+        "margin_bottom_mobile": 36,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "88f0f903-8ed0-4964-9d48-61c33d0bbddb": {
+      "type": "homepage-blogs-t1",
+      "settings": {
+        "margin_bottom_desktop": 36,
+        "margin_bottom_mobile": 36,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "about_main_heading": "Trending Blogs T1",
+        "about_alignment": "center",
+        "about_background": "linear-gradient(180deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 1) 100%)",
+        "blog": "news",
+        "show_view_all": true
+      }
+    },
+    "b8f83d1b-a965-4937-80c9-071422e021cb": {
+      "type": "homepage-blogs-t2",
+      "blocks": {
+        "580afd6c-d98b-4d42-a11e-9306c6980237": {
+          "type": "slide",
+          "settings": {
+            "article": "news\/onions-for-hair-growth-are-they-worth-the-hype"
+          }
+        },
+        "6855c718-cdbf-4bad-aa6b-3d4e1a28744c": {
+          "type": "slide",
+          "settings": {
+            "article": "news\/hemp-and-avocado-oil-for-hair-everything-you-need-to-know"
+          }
+        },
+        "b78d563f-b9d8-4687-82fd-5253dc3185fa": {
+          "type": "slide",
+          "settings": {
+            "article": "news\/unlocking-the-power-of-antioxidants-in-skincare-their-impact-and-benefits-explained"
+          }
+        },
+        "4d2db973-b6e5-46c2-a4ed-270e28d8c1b4": {
+          "type": "slide",
+          "settings": {
+            "article": "news\/unveiling-the-secrets-battling-dark-circles-and-under-eye-bags"
+          }
+        },
+        "71bf2650-a403-4181-8314-2641b179ab3f": {
+          "type": "slide",
+          "settings": {
+            "article": "news\/beyond-makeup-double-cleansing-for-spf-pollutants-and-daily-grime"
+          }
+        }
+      },
+      "block_order": [
+        "580afd6c-d98b-4d42-a11e-9306c6980237",
+        "6855c718-cdbf-4bad-aa6b-3d4e1a28744c",
+        "b78d563f-b9d8-4687-82fd-5253dc3185fa",
+        "4d2db973-b6e5-46c2-a4ed-270e28d8c1b4",
+        "71bf2650-a403-4181-8314-2641b179ab3f"
+      ],
+      "settings": {
+        "margin_bottom_desktop": 36,
+        "margin_bottom_mobile": 36,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "about_main_heading": "Trending Blogs T2",
+        "about_alignment": "center",
+        "about_background": "linear-gradient(180deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 1) 100%)"
+      }
+    },
+    "6ee61ea1-bf67-40d4-98cd-4ab530b4b6ff": {
+      "type": "insta-video-gallery",
+      "blocks": {
+        "3902e490-ba35-4a9a-8cc2-607e6553b9a4": {
+          "type": "slide",
+          "settings": {
+            "insta_video_gallery_video": "shopify:\/\/files\/videos\/009ebada630747e2a461272810f8cf98.mp4"
+          }
+        },
+        "1bd08885-b763-4076-9d54-954fffbb756c": {
+          "type": "slide",
+          "settings": {
+            "insta_video_gallery_video": "shopify:\/\/files\/videos\/954b067478844d0d9a5713bc867abd44.mp4"
+          }
+        },
+        "23258d76-abfa-470e-8537-ab1cb1d7e19c": {
+          "type": "slide",
+          "settings": {
+            "insta_video_gallery_video": "shopify:\/\/files\/videos\/c79ceb2c0e9a42b888e8696634871af0.mp4"
+          }
+        },
+        "23ad41c8-4efa-42df-b85b-f6b1f42959d7": {
+          "type": "slide",
+          "settings": {
+            "insta_video_gallery_video": "shopify:\/\/files\/videos\/009ebada630747e2a461272810f8cf98.mp4"
+          }
+        }
+      },
+      "block_order": [
+        "3902e490-ba35-4a9a-8cc2-607e6553b9a4",
+        "1bd08885-b763-4076-9d54-954fffbb756c",
+        "23258d76-abfa-470e-8537-ab1cb1d7e19c",
+        "23ad41c8-4efa-42df-b85b-f6b1f42959d7"
+      ],
+      "settings": {
+        "margin_bottom_desktop": 36,
+        "margin_bottom_mobile": 36,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "trending_campaign_heading": "Insta Video Gallery",
+        "trending_campaign_subheading": "Trending Campaigns",
+        "background_color": "#242833",
+        "testimonial_alignment_t3": "center"
+      }
+    },
+    "f132a6a5-561f-47ba-a958-ad8c386d6abc": {
+      "type": "sliding-gifs",
+      "blocks": {
+        "aa459949-28df-45bb-a59c-66b5d47796f4": {
+          "type": "text",
+          "settings": {
+            "scrub_formula_video": "shopify:\/\/files\/videos\/a0b88d346d3d4ce08961993874a295c4.mp4",
+            "scrub_link": "#",
+            "link_name": "Lorem Ipsum"
+          }
+        },
+        "63497447-8c61-43e9-a52e-adc68e801caf": {
+          "type": "text",
+          "settings": {
+            "scrub_formula_video": "shopify:\/\/files\/videos\/a0b88d346d3d4ce08961993874a295c4.mp4",
+            "scrub_link": "",
+            "link_name": "Lorem Ipsum"
+          }
+        },
+        "60d6434a-bc4c-4a2a-a2e0-b2982a6c172f": {
+          "type": "text",
+          "settings": {
+            "scrub_formula_video": "shopify:\/\/files\/videos\/a0b88d346d3d4ce08961993874a295c4.mp4",
+            "scrub_link": "",
+            "link_name": "Lorem Ipsum"
+          }
+        },
+        "8aef97de-4293-4ef5-8ea5-d3687e255f06": {
+          "type": "text",
+          "settings": {
+            "scrub_formula_video": "shopify:\/\/files\/videos\/a0b88d346d3d4ce08961993874a295c4.mp4",
+            "scrub_link": "",
+            "link_name": "Lorem Ipsum"
+          }
+        },
+        "fe2e9272-c230-4485-89fc-7fe44d781f40": {
+          "type": "text",
+          "settings": {
+            "scrub_formula_video": "shopify:\/\/files\/videos\/a0b88d346d3d4ce08961993874a295c4.mp4",
+            "scrub_link": "",
+            "link_name": "Lorem Ipsum"
+          }
+        }
+      },
+      "block_order": [
+        "aa459949-28df-45bb-a59c-66b5d47796f4",
+        "63497447-8c61-43e9-a52e-adc68e801caf",
+        "60d6434a-bc4c-4a2a-a2e0-b2982a6c172f",
+        "8aef97de-4293-4ef5-8ea5-d3687e255f06",
+        "fe2e9272-c230-4485-89fc-7fe44d781f40"
+      ],
+      "settings": {
+        "margin_bottom_desktop": 36,
+        "margin_bottom_mobile": 36,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "scrub_formula_title": "Sliding",
+        "section_background": "linear-gradient(180deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 1) 100%)"
+      }
+    },
+    "89c36c28-e2cc-4f60-9e4c-98b5b23ce3bd": {
+      "type": "hotspots",
+      "blocks": {
+        "12ab8473-d7df-4478-baf4-fca50939a401": {
+          "type": "slide",
+          "settings": {
+            "horizontal_position_desktop": 17,
+            "vertical_position_desktop": 25,
+            "horizontal_position_mobile": 69,
+            "vertical_position_mobile": 20,
+            "width": 20,
+            "border_radius": 50,
+            "hotspot_background_color": "#d9d9d9",
+            "animate_hotspot": true,
+            "icon": "none",
+            "product": "dev-test-arata-1-salicylic-acid-daily-body-wash-300-ml"
+          }
+        },
+        "4e5e10d3-574d-4165-b208-1a135052bf01": {
+          "type": "slide",
+          "settings": {
+            "horizontal_position_desktop": 90,
+            "vertical_position_desktop": 36,
+            "horizontal_position_mobile": 71,
+            "vertical_position_mobile": 57,
+            "width": 20,
+            "border_radius": 50,
+            "hotspot_background_color": "#d9d9d9",
+            "animate_hotspot": true,
+            "icon": "none",
+            "product": "dev-test-2-acid-daily-wash-300-ml"
+          }
+        }
+      },
+      "block_order": [
+        "12ab8473-d7df-4478-baf4-fca50939a401",
+        "4e5e10d3-574d-4165-b208-1a135052bf01"
+      ],
+      "settings": {
+        "margin_bottom_desktop": 36,
+        "margin_bottom_mobile": 36,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section_title": "Hotspot Section",
+        "hotspot_text_alignment": "center",
+        "desktop_background_image": "shopify:\/\/shop_images\/1.webp",
+        "mobile_background_image": "shopify:\/\/shop_images\/1_7d6eaf84-9042-423a-b3a0-c74ad3718d60.webp"
+      }
+    },
+    "press_and_media_t2_37girx": {
+      "type": "press-and-media-t2",
+      "blocks": {
+        "0f458ad9-ecf7-43b0-bcd1-7545850f3fcc": {
+          "type": "Select",
+          "settings": {
+            "press_media_image": "shopify:\/\/shop_images\/11.png",
+            "press_media_content": "POPXO",
+            "readmore_button": "Read More",
+            "readmore_button_link": ""
+          }
+        },
+        "dc3305ec-4ab6-4c80-a0f9-a43d39e4b271": {
+          "type": "Select",
+          "settings": {
+            "press_media_image": "shopify:\/\/shop_images\/2_f7f3db6e-1b30-488c-8693-087009925315.png",
+            "press_media_content": "DECCCAN",
+            "readmore_button": "Read More",
+            "readmore_button_link": ""
+          }
+        },
+        "e0ede15a-8a47-4b08-9743-bd2b3e3b28f8": {
+          "type": "Select",
+          "settings": {
+            "press_media_image": "shopify:\/\/shop_images\/8_04e5d7d7-0a1f-4ea9-9ff8-4acd41aa87cb.png",
+            "press_media_content": "TOI",
+            "readmore_button": "Read More",
+            "readmore_button_link": ""
+          }
+        },
+        "231d6e2e-2edc-4414-a945-5fe2c676d567": {
+          "type": "Select",
+          "settings": {
+            "press_media_image": "shopify:\/\/shop_images\/3_1286dc67-eb13-4048-aaba-480995738564.png",
+            "press_media_content": "IANSLIFE",
+            "readmore_button": "Read More",
+            "readmore_button_link": ""
+          }
+        },
+        "62c5d954-b8a2-4a0e-8341-b2518db434d8": {
+          "type": "Select",
+          "settings": {
+            "press_media_image": "shopify:\/\/shop_images\/5_12d63865-dfa1-4a9a-ac1b-fb3ced9cfccb.png",
+            "press_media_content": "HT Times",
+            "readmore_button": "Read More",
+            "readmore_button_link": ""
+          }
+        },
+        "538ac383-535d-4a88-831e-4698999d8053": {
+          "type": "Select",
+          "settings": {
+            "press_media_image": "shopify:\/\/shop_images\/9_d72c327c-278a-4f41-a506-5cc69b635d7a.png",
+            "press_media_content": "VOGUE",
+            "readmore_button": "Read More",
+            "readmore_button_link": ""
+          }
+        },
+        "c37f370e-6159-4566-a0c0-40f94feb6ebc": {
+          "type": "Select",
+          "settings": {
+            "press_media_image": "shopify:\/\/shop_images\/6_6d1dfbd8-f5d3-4d32-980f-8b5e03cb6489.png",
+            "press_media_content": "BAZAAR",
+            "readmore_button": "Read More",
+            "readmore_button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "0f458ad9-ecf7-43b0-bcd1-7545850f3fcc",
+        "dc3305ec-4ab6-4c80-a0f9-a43d39e4b271",
+        "e0ede15a-8a47-4b08-9743-bd2b3e3b28f8",
+        "231d6e2e-2edc-4414-a945-5fe2c676d567",
+        "62c5d954-b8a2-4a0e-8341-b2518db434d8",
+        "538ac383-535d-4a88-831e-4698999d8053",
+        "c37f370e-6159-4566-a0c0-40f94feb6ebc"
+      ],
+      "settings": {
+        "margin_bottom_desktop": 36,
+        "margin_bottom_mobile": 36,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "press_media_heading": "Press and Media",
+        "press_media_subheading": "Press and Media",
+        "testimonial_alignment": "center",
+        "section_background": "linear-gradient(180deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 1) 100%)"
+      }
+    },
+    "c52b22fb-e256-4350-8f5d-6914517b08c8": {
+      "type": "brand-slider",
+      "blocks": {
+        "e6c99b0d-e76e-49ea-91fb-cd716cb095cc": {
+          "type": "card",
+          "settings": {
+            "oec-desk": "shopify:\/\/shop_images\/skagen_offer_card.jpg",
+            "oec-mob": "shopify:\/\/shop_images\/skagen_offer_card.jpg",
+            "offer-url": ""
+          }
+        },
+        "c3d5f8fa-a31e-411b-b173-5c82a0693a14": {
+          "type": "card",
+          "settings": {
+            "oec-desk": "shopify:\/\/shop_images\/skagen_offer_card.jpg",
+            "oec-mob": "shopify:\/\/shop_images\/skagen_offer_card.jpg",
+            "offer-url": ""
+          }
+        },
+        "969aa375-5f66-4246-863e-a37c2be48856": {
+          "type": "card",
+          "settings": {
+            "oec-desk": "shopify:\/\/shop_images\/skagen_offer_card.jpg",
+            "oec-mob": "shopify:\/\/shop_images\/skagen_offer_card.jpg",
+            "offer-url": ""
+          }
+        },
+        "c8dcb88c-b211-4f9c-a41a-52384dda1426": {
+          "type": "card",
+          "settings": {
+            "oec-desk": "shopify:\/\/shop_images\/skagen_offer_card.jpg",
+            "oec-mob": "shopify:\/\/shop_images\/skagen_offer_card.jpg",
+            "offer-url": ""
+          }
+        },
+        "022e8392-f79c-446a-8096-c424f79f5dc1": {
+          "type": "card",
+          "settings": {
+            "oec-desk": "shopify:\/\/shop_images\/skagen_offer_card.jpg",
+            "oec-mob": "shopify:\/\/shop_images\/skagen_offer_card.jpg",
+            "offer-url": ""
+          }
+        },
+        "3a27c787-fc5c-4319-8c57-e1e4175c6374": {
+          "type": "card",
+          "settings": {
+            "oec-desk": "shopify:\/\/shop_images\/skagen_offer_card.jpg",
+            "oec-mob": "shopify:\/\/shop_images\/skagen_offer_card.jpg",
+            "offer-url": ""
+          }
+        },
+        "7f1a789b-32f1-4c22-8f3f-efe4db825b2d": {
+          "type": "card",
+          "settings": {
+            "oec-desk": "shopify:\/\/shop_images\/skagen_offer_card.jpg",
+            "oec-mob": "shopify:\/\/shop_images\/skagen_offer_card.jpg",
+            "offer-url": ""
+          }
+        },
+        "e416dde7-afce-4ad9-8643-4d7f0abf79a8": {
+          "type": "card",
+          "settings": {
+            "oec-desk": "shopify:\/\/shop_images\/skagen_offer_card.jpg",
+            "oec-mob": "shopify:\/\/shop_images\/skagen_offer_card.jpg",
+            "offer-url": ""
+          }
+        }
+      },
+      "block_order": [
+        "e6c99b0d-e76e-49ea-91fb-cd716cb095cc",
+        "c3d5f8fa-a31e-411b-b173-5c82a0693a14",
+        "969aa375-5f66-4246-863e-a37c2be48856",
+        "c8dcb88c-b211-4f9c-a41a-52384dda1426",
+        "022e8392-f79c-446a-8096-c424f79f5dc1",
+        "3a27c787-fc5c-4319-8c57-e1e4175c6374",
+        "7f1a789b-32f1-4c22-8f3f-efe4db825b2d",
+        "e416dde7-afce-4ad9-8643-4d7f0abf79a8"
+      ],
+      "settings": {
+        "margin_bottom_desktop": 36,
+        "margin_bottom_mobile": 36,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "oec-head1": "Curated By Style",
+        "heading_alignment": "left"
+      }
+    },
+    "171981084914543c39": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    }
+  },
+  "order": [
+    "sub_category_t2_gUYyG8",
+    "custom_main_banner_BkQwQq",
+    "da31b08c-4e45-4935-b424-73c403919e9e",
+    "af327331-51d5-475e-825e-e9a46518852f",
+    "c261297d-0f94-4369-9a1c-768b2213089b",
+    "b209c2e1-8294-459c-9f0d-06a47216c1b9",
+    "a6ef5710-a41e-485b-9691-2ea1211a3d3d",
+    "afa91349-f313-42e2-aa91-546c19f22ad1",
+    "ac00d44a-1548-4681-9ea7-31dcf07a6929",
+    "de611900-a2df-48da-9c19-31b7b86f7445",
+    "f6bdca54-da72-46f2-9437-b205141eb58b",
+    "bbd238b4-605a-4761-9c7b-1ed49defc2b1",
+    "88f0f903-8ed0-4964-9d48-61c33d0bbddb",
+    "b8f83d1b-a965-4937-80c9-071422e021cb",
+    "6ee61ea1-bf67-40d4-98cd-4ab530b4b6ff",
+    "f132a6a5-561f-47ba-a958-ad8c386d6abc",
+    "89c36c28-e2cc-4f60-9e4c-98b5b23ce3bd",
+    "press_and_media_t2_37girx",
+    "c52b22fb-e256-4350-8f5d-6914517b08c8",
+    "171981084914543c39"
+  ]
+}
