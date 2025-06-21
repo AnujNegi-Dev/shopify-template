@@ -77,6 +77,7 @@
         },
         "pincode_checker_kG4AJm": {
           "type": "pincode_checker",
+          "disabled": true,
           "settings": {
             "pincode_heading": "Check the Pincode Here",
             "pincode_placeholder": "Enter Pincode",
