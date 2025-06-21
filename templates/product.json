@@ -37,7 +37,7 @@
         "subtitle_x3KqQ3": {
           "type": "subtitle",
           "settings": {
-            "text_subtitle": "{{ product.metafields.custom.short_description | metafield_text }}"
+            "text_subtitle": ""
           }
         },
         "price": {
@@ -118,7 +118,7 @@
           "settings": {
             "heading": "How To Use",
             "icon": "none",
-            "content": "{{ product.metafields.custom.how_to_use | metafield_tag }}",
+            "content": "",
             "page": ""
           }
         },
@@ -127,7 +127,7 @@
           "settings": {
             "heading": "Why we love it?",
             "icon": "none",
-            "content": "{{ product.metafields.custom.why_we_love_it | metafield_tag }}",
+            "content": "",
             "page": ""
           }
         },
@@ -136,7 +136,7 @@
           "settings": {
             "heading": "Ingredients",
             "icon": "none",
-            "content": "{{ product.metafields.custom.ingredients | metafield_tag }}",
+            "content": "",
             "page": ""
           }
         },
