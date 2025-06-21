@@ -1,30 +1,30 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
-    "logo": "shopify:\/\/shop_images\/STC-Logo-New_png_3_130x_5cfeb291-a1a2-4a23-8cf4-46bdf4234394.png",
+    "logo": "shopify://shop_images/STC-Logo-New_png_3_130x_5cfeb291-a1a2-4a23-8cf4-46bdf4234394.png",
     "logo_width": 110,
-    "favicon": "shopify:\/\/shop_images\/STC-Logo-New_png_4_32x32_2a9687d5-23e4-4b18-8f55-ba091b047b84.png",
+    "favicon": "shopify://shop_images/STC-Logo-New_png_4_32x32_2a9687d5-23e4-4b18-8f55-ba091b047b84.png",
     "type_header_font": "roboto_n7",
     "heading_scale": 100,
     "type_body_font": "roboto_n4",
     "body_scale": 100,
-    "font-file-weight-900": "https:\/\/cdn.shopify.com\/s\/files\/1\/0803\/6873\/0389\/files\/Roboto-Black.ttf?v=1709633849",
-    "font-file-weight-800": "https:\/\/cdn.shopify.com\/s\/files\/1\/0803\/6873\/0389\/files\/Roboto-Bold.ttf?v=1709633848",
-    "font-file-weight-700": "https:\/\/cdn.shopify.com\/s\/files\/1\/0803\/6873\/0389\/files\/Roboto-Bold.ttf?v=1709633848",
-    "font-file-weight-600": "https:\/\/cdn.shopify.com\/s\/files\/1\/0803\/6873\/0389\/files\/Roboto-Medium.ttf?v=1709633848",
-    "font-file-weight-500": "https:\/\/cdn.shopify.com\/s\/files\/1\/0803\/6873\/0389\/files\/Roboto-Medium.ttf?v=1709633848",
-    "font-file-weight-400": "https:\/\/cdn.shopify.com\/s\/files\/1\/0803\/6873\/0389\/files\/Roboto-Regular.ttf?v=1704797581",
-    "font-file-weight-300": "https:\/\/cdn.shopify.com\/s\/files\/1\/0803\/6873\/0389\/files\/Roboto-Light.ttf?v=1709633848",
-    "font-file-weight-200": "https:\/\/cdn.shopify.com\/s\/files\/1\/0803\/6873\/0389\/files\/Roboto-Thin.ttf?v=1709633848",
-    "font-file-weight-100": "https:\/\/cdn.shopify.com\/s\/files\/1\/0803\/6873\/0389\/files\/Roboto-Thin.ttf?v=1709633848",
+    "font-file-weight-900": "https://cdn.shopify.com/s/files/1/0803/6873/0389/files/Roboto-Black.ttf?v=1709633849",
+    "font-file-weight-800": "https://cdn.shopify.com/s/files/1/0803/6873/0389/files/Roboto-Bold.ttf?v=1709633848",
+    "font-file-weight-700": "https://cdn.shopify.com/s/files/1/0803/6873/0389/files/Roboto-Bold.ttf?v=1709633848",
+    "font-file-weight-600": "https://cdn.shopify.com/s/files/1/0803/6873/0389/files/Roboto-Medium.ttf?v=1709633848",
+    "font-file-weight-500": "https://cdn.shopify.com/s/files/1/0803/6873/0389/files/Roboto-Medium.ttf?v=1709633848",
+    "font-file-weight-400": "https://cdn.shopify.com/s/files/1/0803/6873/0389/files/Roboto-Regular.ttf?v=1704797581",
+    "font-file-weight-300": "https://cdn.shopify.com/s/files/1/0803/6873/0389/files/Roboto-Light.ttf?v=1709633848",
+    "font-file-weight-200": "https://cdn.shopify.com/s/files/1/0803/6873/0389/files/Roboto-Thin.ttf?v=1709633848",
+    "font-file-weight-100": "https://cdn.shopify.com/s/files/1/0803/6873/0389/files/Roboto-Thin.ttf?v=1709633848",
     "desktop-font-size-h2": 28,
     "desktop-font-size-h3": 25,
     "desktop-font-size-h4": 14,
@@ -37,7 +37,7 @@
     "mobile-font-size-p": 17,
     "page_width": 1920,
     "spacing_sections": 0,
-    "desktop-padding": 130,
+    "desktop-padding": 50,
     "mobile-padding": 20,
     "spacing_grid_horizontal": 16,
     "spacing_grid_vertical": 16,
@@ -69,7 +69,7 @@
     "show_secondary_image": true,
     "product_card_show_vendor": true,
     "show_rating": true,
-    "badge_svg": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"81\" height=\"22\" viewbox=\"0 0 81 22\" fill=\"none\"> <path d=\"M80.8287 11.5744L74.9721 20.7533C74.5154 21.4989 73.214 22 71.7412 22H0V0H71.7526C73.214 0 74.5154 0.501111 74.9835 1.24667L80.8287 10.4256C81.0685 10.7983 81.0685 11.2017 80.8287 11.5744Z\" fill=\"#E22626\"><\/path> <\/svg>",
+    "badge_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"81\" height=\"22\" viewbox=\"0 0 81 22\" fill=\"none\"> <path d=\"M80.8287 11.5744L74.9721 20.7533C74.5154 21.4989 73.214 22 71.7412 22H0V0H71.7526C73.214 0 74.5154 0.501111 74.9835 1.24667L80.8287 10.4256C81.0685 10.7983 81.0685 11.2017 80.8287 11.5744Z\" fill=\"#E22626\"></path> </svg>",
     "enable_sale_tag": true,
     "sale_badge_type": "sale",
     "rating_design": "second",
@@ -139,14 +139,14 @@
     "drawer_shadow_vertical_offset": 4,
     "drawer_shadow_blur": 5,
     "brand_headline": "Seventh Triangle Consulting",
-    "brand_description": "<p>Seventh Triangle<em> <\/em>believes in providing solutions that assist businesses in scaling.<\/p>",
-    "brand_image": "shopify:\/\/shop_images\/STC-Logo-New_png_3_130x_5cfeb291-a1a2-4a23-8cf4-46bdf4234394.png",
+    "brand_description": "<p>Seventh Triangle<em> </em>believes in providing solutions that assist businesses in scaling.</p>",
+    "brand_image": "shopify://shop_images/STC-Logo-New_png_3_130x_5cfeb291-a1a2-4a23-8cf4-46bdf4234394.png",
     "brand_image_width": 175,
-    "social_facebook_link": "https:\/\/facebook.com\/shopify",
-    "social_instagram_link": "http:\/\/instagram.com\/shopify",
-    "social_youtube_link": "https:\/\/www.youtube.com\/shopify",
+    "social_facebook_link": "https://facebook.com/shopify",
+    "social_instagram_link": "http://instagram.com/shopify",
+    "social_youtube_link": "https://www.youtube.com/shopify",
     "social_tiktok_link": "",
-    "social_twitter_link": "https:\/\/twitter.com\/shopify",
+    "social_twitter_link": "https://twitter.com/shopify",
     "social_snapchat_link": "",
     "social_pinterest_link": "",
     "social_tumblr_link": "",
@@ -170,16 +170,16 @@
     "sold_out_badge_color_scheme": "background-1",
     "new_badge_color_scheme": "background-2",
     "bestSeller_badge_color_scheme": "background-2",
-    "font-file-h1": "https:\/\/cdn.shopify.com\/s\/files\/1\/0803\/6873\/0389\/files\/Rubik-Regular.ttf?v=1701234217",
-    "font-file-h2": "https:\/\/cdn.shopify.com\/s\/files\/1\/0803\/6873\/0389\/files\/Rubik-Regular.ttf?v=1701234217",
-    "font-file-h3": "https:\/\/cdn.shopify.com\/s\/files\/1\/0803\/6873\/0389\/files\/Rubik-Regular.ttf?v=1701234217",
+    "font-file-h1": "https://cdn.shopify.com/s/files/1/0803/6873/0389/files/Rubik-Regular.ttf?v=1701234217",
+    "font-file-h2": "https://cdn.shopify.com/s/files/1/0803/6873/0389/files/Rubik-Regular.ttf?v=1701234217",
+    "font-file-h3": "https://cdn.shopify.com/s/files/1/0803/6873/0389/files/Rubik-Regular.ttf?v=1701234217",
     "mobile-letter-spacing-h3": 0,
-    "font-file-h4": "https:\/\/cdn.shopify.com\/s\/files\/1\/0803\/6873\/0389\/files\/Rubik-Medium.ttf?v=1701234217",
+    "font-file-h4": "https://cdn.shopify.com/s/files/1/0803/6873/0389/files/Rubik-Medium.ttf?v=1701234217",
     "mobile-line-height-h4": "",
-    "font-file-h5": "https:\/\/cdn.shopify.com\/s\/files\/1\/0803\/6873\/0389\/files\/Rubik-Medium.ttf?v=1701234217",
-    "font-file-h6": "https:\/\/cdn.shopify.com\/s\/files\/1\/0803\/6873\/0389\/files\/Rubik-SemiBold.ttf?v=1701234217",
-    "font-file-p": "https:\/\/cdn.shopify.com\/s\/files\/1\/0803\/6873\/0389\/files\/Rubik-Regular.ttf?v=1701234217",
-    "font-file-a": "https:\/\/cdn.shopify.com\/s\/files\/1\/0803\/6873\/0389\/files\/Rubik-Regular.ttf?v=1701234217",
+    "font-file-h5": "https://cdn.shopify.com/s/files/1/0803/6873/0389/files/Rubik-Medium.ttf?v=1701234217",
+    "font-file-h6": "https://cdn.shopify.com/s/files/1/0803/6873/0389/files/Rubik-SemiBold.ttf?v=1701234217",
+    "font-file-p": "https://cdn.shopify.com/s/files/1/0803/6873/0389/files/Rubik-Regular.ttf?v=1701234217",
+    "font-file-a": "https://cdn.shopify.com/s/files/1/0803/6873/0389/files/Rubik-Regular.ttf?v=1701234217",
     "desktop-letter-spacing-a": 0.7,
     "sections": {
       "main-password-header": {
@@ -195,17 +195,7 @@
         }
       }
     },
-    "content_for_index": [
-
-    ],
-    "blocks": {
-      "14060646107696862457": {
-        "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-        "disabled": false,
-        "settings": {
-        }
-      }
-    },
+    "content_for_index": [],
     "color_schemes": {
       "background-1": {
         "settings": {
@@ -431,7 +421,7 @@
       "sale_badge_color_scheme": "accent-2",
       "sold_out_badge_color_scheme": "inverse",
       "brand_headline": "",
-      "brand_description": "<p><\/p>",
+      "brand_description": "<p></p>",
       "brand_image_width": 100,
       "social_twitter_link": "",
       "social_facebook_link": "",
