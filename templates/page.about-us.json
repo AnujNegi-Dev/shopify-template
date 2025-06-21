@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -15,32 +24,28 @@
           "type": "slide",
           "settings": {
             "testimonial_image": "",
-            "testimonial_video": "",
-            "testimonial_text": "<p>Its invigorating formula leaves my locks feeling incredibly soft and revitalized. Say goodbye to dullness and hello to healthier, shinier hair – this shampoo is a game-changer for anyone seeking a salon-worthy treat at home.\"<\/p>"
+            "testimonial_text": "<p>Its invigorating formula leaves my locks feeling incredibly soft and revitalized. Say goodbye to dullness and hello to healthier, shinier hair – this shampoo is a game-changer for anyone seeking a salon-worthy treat at home.\"</p>"
           }
         },
         "slide_fN36hw": {
           "type": "slide",
           "settings": {
             "testimonial_image": "",
-            "testimonial_video": "",
-            "testimonial_text": "<p>Its invigorating formula leaves my locks feeling incredibly soft and revitalized. Say goodbye to dullness and hello to healthier, shinier hair – this shampoo is a game-changer for anyone seeking a salon-worthy treat at home.\"<\/p>"
+            "testimonial_text": "<p>Its invigorating formula leaves my locks feeling incredibly soft and revitalized. Say goodbye to dullness and hello to healthier, shinier hair – this shampoo is a game-changer for anyone seeking a salon-worthy treat at home.\"</p>"
           }
         },
         "slide_XG6G6y": {
           "type": "slide",
           "settings": {
             "testimonial_image": "",
-            "testimonial_video": "",
-            "testimonial_text": "<p>Its invigorating formula leaves my locks feeling incredibly soft and revitalized. Say goodbye to dullness and hello to healthier, shinier hair – this shampoo is a game-changer for anyone seeking a salon-worthy treat at home.\"<\/p>"
+            "testimonial_text": "<p>Its invigorating formula leaves my locks feeling incredibly soft and revitalized. Say goodbye to dullness and hello to healthier, shinier hair – this shampoo is a game-changer for anyone seeking a salon-worthy treat at home.\"</p>"
           }
         },
         "slide_8LfBUT": {
           "type": "slide",
           "settings": {
             "testimonial_image": "",
-            "testimonial_video": "",
-            "testimonial_text": "<p>Its invigorating formula leaves my locks feeling incredibly soft and revitalized. Say goodbye to dullness and hello to healthier, shinier hair – this shampoo is a game-changer for anyone seeking a salon-worthy treat at home.\"<\/p>"
+            "testimonial_text": "<p>Its invigorating formula leaves my locks feeling incredibly soft and revitalized. Say goodbye to dullness and hello to healthier, shinier hair – this shampoo is a game-changer for anyone seeking a salon-worthy treat at home.\"</p>"
           }
         }
       },

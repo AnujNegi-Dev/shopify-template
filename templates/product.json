@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "breadcrumb_3ANDQx": {
@@ -74,7 +83,7 @@
             "pincode_btn_text": "CHECK",
             "pincode_success_msg": "Delivery Available",
             "pincode_failed_msg": "Pincode Not Found",
-            "pincode_api": "https:\/\/sheets.googleapis.com\/v4\/spreadsheets\/1q4O8M4f_3IBFRLlpzaaluMloKQYBBrneiNkJny8hlSQ\/values\/Sheet1?key=AIzaSyB8r3V39wiZ_vX3hCAi0tcKMwQBJVQAWfM",
+            "pincode_api": "https://sheets.googleapis.com/v4/spreadsheets/1q4O8M4f_3IBFRLlpzaaluMloKQYBBrneiNkJny8hlSQ/values/Sheet1?key=AIzaSyB8r3V39wiZ_vX3hCAi0tcKMwQBJVQAWfM",
             "pincode_background_color": "#ffffff",
             "pincode_input_color": "#121212",
             "pincode_button_color": "#121212"
@@ -218,16 +227,6 @@
     },
     "1711004690b0e95ac4": {
       "type": "apps",
-      "blocks": {
-        "judge_me_reviews_review_widget_QaFq4R": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_review_widget_QaFq4R"
-      ],
       "settings": {
         "include_margins": true
       }
