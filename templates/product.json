@@ -30,7 +30,7 @@
             "rounded_corners": 10,
             "active_slide_width": 2,
             "active_slide_border_color": "#000000",
-            "enablePagination": false,
+            "enablePagination": true,
             "swiperButtons": true,
             "reverseSwiperBehaviours": true,
             "media_slider_position": "bottom",
