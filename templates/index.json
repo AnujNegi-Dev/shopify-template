@@ -157,6 +157,7 @@
         "image_block_QrFByF": {
           "type": "image_block",
           "settings": {
+            "desktop_banner_image": "shopify://shop_images/Slider_Buttons.png",
             "image_link": ""
           }
         }
