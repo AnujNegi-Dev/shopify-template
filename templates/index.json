@@ -166,6 +166,7 @@
         "image_block_DiW9c9",
         "image_block_QrFByF"
       ],
+      "disabled": true,
       "settings": {
         "margin_bottom_desktop": 36,
         "margin_bottom_mobile": 36,
@@ -179,6 +180,7 @@
     },
     "da31b08c-4e45-4935-b424-73c403919e9e": {
       "type": "featured-collection-t1",
+      "disabled": true,
       "settings": {
         "margin_bottom_desktop": 36,
         "margin_bottom_mobile": 36,
@@ -222,6 +224,7 @@
         "d5765d2d-6c68-4677-8c5a-f74410a5cba4",
         "af40fe3e-5d9f-4b3d-9111-896241666c06"
       ],
+      "disabled": true,
       "settings": {
         "margin_bottom_desktop": 36,
         "margin_bottom_mobile": 36,
@@ -264,6 +267,7 @@
         "template--21406065819925__c261297d-0f94-4369-9a1c-768b2213089b-slide-1",
         "template--21406065819925__c261297d-0f94-4369-9a1c-768b2213089b-slide-2"
       ],
+      "disabled": true,
       "settings": {
         "margin_bottom_desktop": 36,
         "margin_bottom_mobile": 36,
@@ -328,6 +332,7 @@
         "e6948695-3871-4b30-b67e-0d8006614bd2",
         "ccb213b5-a316-4dc3-b6c5-e2d14cf7e636"
       ],
+      "disabled": true,
       "settings": {
         "margin_bottom_desktop": 36,
         "margin_bottom_mobile": 36,
@@ -383,6 +388,7 @@
         "select_7eBALN",
         "select_XdXLUa"
       ],
+      "disabled": true,
       "settings": {
         "background_color": "rgba(251, 225, 206, 0.2)",
         "margin_bottom_desktop": 36,
@@ -444,6 +450,7 @@
         "c254a937-0b83-4dfd-b410-d8b80997da00",
         "aaf014bc-4d11-4c99-96fc-330b4b795458"
       ],
+      "disabled": true,
       "settings": {
         "margin_bottom_desktop": 36,
         "margin_bottom_mobile": 36,
@@ -501,6 +508,7 @@
         "image_BqMMj9",
         "image_aXA9QM"
       ],
+      "disabled": true,
       "settings": {
         "margin_bottom_desktop": 36,
         "margin_bottom_mobile": 36,
@@ -566,6 +574,7 @@
         "0620e5d2-7b43-43e8-80ad-89594916e367",
         "3ee20f1f-2b17-4845-b335-1dc15c997092"
       ],
+      "disabled": true,
       "settings": {
         "margin_bottom_desktop": 36,
         "margin_bottom_mobile": 36,
@@ -667,6 +676,7 @@
         "aa4e43da-3d72-4f88-a8b7-347c0ec027a1",
         "22d030fc-e0b0-490b-9122-04d5bbf2ff84"
       ],
+      "disabled": true,
       "settings": {
         "margin_bottom_desktop": 36,
         "margin_bottom_mobile": 36,
@@ -715,6 +725,7 @@
         "b2c8e17b-03b6-43fb-8140-df57355d8554",
         "005722b7-33d3-4656-95a8-28f023cb9915"
       ],
+      "disabled": true,
       "settings": {
         "margin_bottom_desktop": 36,
         "margin_bottom_mobile": 36,
@@ -724,6 +735,7 @@
     },
     "88f0f903-8ed0-4964-9d48-61c33d0bbddb": {
       "type": "homepage-blogs-t1",
+      "disabled": true,
       "settings": {
         "margin_bottom_desktop": 36,
         "margin_bottom_mobile": 36,
@@ -777,6 +789,7 @@
         "4d2db973-b6e5-46c2-a4ed-270e28d8c1b4",
         "71bf2650-a403-4181-8314-2641b179ab3f"
       ],
+      "disabled": true,
       "settings": {
         "margin_bottom_desktop": 36,
         "margin_bottom_mobile": 36,
@@ -813,6 +826,7 @@
         "23258d76-abfa-470e-8537-ab1cb1d7e19c",
         "23ad41c8-4efa-42df-b85b-f6b1f42959d7"
       ],
+      "disabled": true,
       "settings": {
         "margin_bottom_desktop": 36,
         "margin_bottom_mobile": 36,
@@ -870,6 +884,7 @@
         "8aef97de-4293-4ef5-8ea5-d3687e255f06",
         "fe2e9272-c230-4485-89fc-7fe44d781f40"
       ],
+      "disabled": true,
       "settings": {
         "margin_bottom_desktop": 36,
         "margin_bottom_mobile": 36,
@@ -917,6 +932,7 @@
         "12ab8473-d7df-4478-baf4-fca50939a401",
         "4e5e10d3-574d-4165-b208-1a135052bf01"
       ],
+      "disabled": true,
       "settings": {
         "margin_bottom_desktop": 36,
         "margin_bottom_mobile": 36,
@@ -995,6 +1011,7 @@
         "538ac383-535d-4a88-831e-4698999d8053",
         "c37f370e-6159-4566-a0c0-40f94feb6ebc"
       ],
+      "disabled": true,
       "settings": {
         "margin_bottom_desktop": 36,
         "margin_bottom_mobile": 36,
@@ -1068,6 +1085,7 @@
         "7f1a789b-32f1-4c22-8f3f-efe4db825b2d",
         "e416dde7-afce-4ad9-8643-4d7f0abf79a8"
       ],
+      "disabled": true,
       "settings": {
         "margin_bottom_desktop": 36,
         "margin_bottom_mobile": 36,
@@ -1079,6 +1097,7 @@
     },
     "171981084914543c39": {
       "type": "apps",
+      "disabled": true,
       "settings": {
         "include_margins": true
       }
