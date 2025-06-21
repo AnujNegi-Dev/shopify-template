@@ -11,7 +11,6 @@
   "sections": {
     "main": {
       "type": "main-list-collections",
-      "disabled": true,
       "settings": {
         "title": "Collections",
         "sort": "alphabetical",
@@ -22,6 +21,7 @@
     },
     "custom_collection_list_tQdhXW": {
       "type": "custom-collection-list",
+      "disabled": true,
       "settings": {
         "title": "Collections",
         "color_scheme": "",
